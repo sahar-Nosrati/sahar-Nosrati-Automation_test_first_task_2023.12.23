@@ -1,0 +1,41 @@
+- performance test => non-functional software test => determine => stability, speed, scalability, and responsiveness of applications up under a given workload (1)   
+
+- different stage of performance test (1)=> 
+      - Software analysis and requirements preparation
+      - Strategy design
+      - Load generator configuration
+      - Server and load generator monitoring
+      - Test data generation
+      - Load scripts development
+      - Preliminary tests launch
+      - Tests execution
+      - Results analysis and reporting
+
+
+- Performance Testing Life Cycle (PTLC) (2) => connection between the expected result and the actual result => output =>
+    - responsive application with better performance.
+
+- PTLC phases =>
+    - Risk Assessment
+    - Requirement Gathering & Analysis
+    - Performance Test Planning
+    - Performance Test Design (Scripting)
+    - Workload Modelling 
+    - Performance Test Execution & Result Analysis
+    - Reporting and Recommendation
+
+**********************Test types****************************
+
+- Testing types (3) => 
+    - Load testing =>
+    - Stress testing =>
+    - Soak testing => 
+    - Spike testing => 
+    - Breakpoint testing =>
+    - Configuration testing => 
+    - Isolation testing =>
+    - Internet testing
+
+
+
+    aaaaa
